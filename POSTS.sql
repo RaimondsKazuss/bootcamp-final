@@ -1,0 +1,10 @@
+insert into POSTS (id, title, text, created_by, created_at) values (1, 'Enterprise-wide', 'Synergized mission-critical policy', 1, '11/16/2020');
+insert into POSTS (id, title, text, created_by, created_at) values (2, 'zero administration', 'Multi-tiered tertiary groupware', 2, '1/7/2021');
+insert into POSTS (id, title, text, created_by, created_at) values (3, 'installation', 'Re-engineered executive success', 3, '1/25/2021');
+insert into POSTS (id, title, text, created_by, created_at) values (4, 'Balanced', 'Public-key coherent circuit', 4, '8/20/2020');
+insert into POSTS (id, title, text, created_by, created_at) values (5, 'responsive', 'Extended context-sensitive frame', 5, '2/27/2021');
+insert into POSTS (id, title, text, created_by, created_at) values (6, 'contextually-based', 'Programmable high-level process improvement', 6, '4/10/2021');
+insert into POSTS (id, title, text, created_by, created_at) values (7, 'Networked', 'Mandatory fresh-thinking paradigm', 7, '1/10/2021');
+insert into POSTS (id, title, text, created_by, created_at) values (8, 'value-added', 'Advanced well-modulated moratorium', 8, '2/3/2021');
+insert into POSTS (id, title, text, created_by, created_at) values (9, 'disintermediate', 'Customer-focused real-time projection', 9, '9/5/2020');
+insert into POSTS (id, title, text, created_by, created_at) values (10, 'process improvement', 'Cross-group zero defect firmware', 10, '2/25/2021');
