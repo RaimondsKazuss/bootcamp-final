@@ -29,3 +29,7 @@ ___
 ### advanced back-end requirements:
 - getting post author and creation time (table joining)
 - authentication
+___
+### Workflow
+- split the whole development of the application between you and your teammate in parts and create a separate branch for each feature you're developing.
+- when the feature is done, create a pull request, go over the code with your teammate and merge it into the `main` branch.
